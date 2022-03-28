@@ -69,7 +69,7 @@ const Home: NextPage = () => {
           </Heading>
         </Box>
 
-        <Box width={"100%"} height={"auto"} marginY={"10"}>
+        <Box width={"100%"} marginY={"10"}>
           <SlideContinentsComponent />
         </Box>
       </Flex>

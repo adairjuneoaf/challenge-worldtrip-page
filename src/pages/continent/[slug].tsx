@@ -21,8 +21,8 @@ import {
   PopoverHeader,
   PopoverBody,
   PopoverCloseButton,
-  useDisclosure,
 } from "@chakra-ui/react";
+import CityCardComponent from "../../components/CityCard";
 
 const PageContinent: NextPage = () => {
   const [popoverOpen, setPopoverOpen] = useState(false);
@@ -119,10 +119,18 @@ const PageContinent: NextPage = () => {
             </HStack>
           </Flex>
 
-          <Box marginY={"12"}>
+          <Box marginY={"12"} width={"100%"} height={"auto"}>
             <Heading fontWeight={"500"}>Cidades +100</Heading>
 
-            <Flex marginTop={"10"}>a</Flex>
+            <Flex marginTop={"10"} gap={"16"} wrap={"wrap"} justifyContent={"flex-start"}>
+              <CityCardComponent />
+              <CityCardComponent />
+              <CityCardComponent />
+              <CityCardComponent />
+              <CityCardComponent />
+              <CityCardComponent />
+              <CityCardComponent />
+            </Flex>
           </Box>
         </Box>
       </Flex>

@@ -4,7 +4,7 @@ import { NextPage } from "next";
 import { AppProps } from "next/app";
 
 // Chakra UI Dependencies
-import { ChakraProvider, Flex } from "@chakra-ui/react";
+import { ChakraProvider } from "@chakra-ui/react";
 
 // Style Dependencies
 import { theme } from "../styles/theme";
