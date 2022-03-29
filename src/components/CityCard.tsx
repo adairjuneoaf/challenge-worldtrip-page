@@ -31,7 +31,7 @@ const CityCardComponent: React.FC = () => {
           </VStack>
           <ChakraImage
             flex={"1"}
-            src={"/assets/images/united_kingdom.png"}
+            src={"/assets/images/flags/united_kingdom.png"}
             width={"24px"}
             height={"24px"}
             borderRadius={"12px"}

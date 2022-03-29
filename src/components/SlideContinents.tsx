@@ -70,7 +70,7 @@ const SlideContinentsComponent: React.FC = () => {
                   cursor={"pointer"}
                   _hover={{ color: "yellow.500" }}
                 >
-                  América do norte
+                  América
                 </Heading>
               </Link>
               <Text fontWeight={"700"} fontSize={"24"} color={"white.100"}>
@@ -80,9 +80,9 @@ const SlideContinentsComponent: React.FC = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <ChakraImage src={"/assets/images/south_america_continent.jpg"} />
+            <ChakraImage src={"/assets/images/oceania_continent.jpg"} />
             <Flex position={"absolute"} flexDirection={"column"} justifyContent={"center"} alignItems={"center"}>
-              <Link href={"/continent/south-america"} passHref>
+              <Link href={"/continent/oceania"} passHref>
                 <Heading
                   width={"fit-content"}
                   height={"auto"}
@@ -92,11 +92,11 @@ const SlideContinentsComponent: React.FC = () => {
                   cursor={"pointer"}
                   _hover={{ color: "yellow.500" }}
                 >
-                  América do Sul
+                  Oceania
                 </Heading>
               </Link>
               <Text fontWeight={"700"} fontSize={"24"} color={"white.100"}>
-                Conheça a cultura e o povo mais acolhedor do mundo.
+                Diversidade única e belas paisagens.
               </Text>
             </Flex>
           </SwiperSlide>

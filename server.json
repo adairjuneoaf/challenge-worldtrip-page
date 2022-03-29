@@ -1,0 +1,150 @@
+{
+  "continent": [
+    {
+      "id": 1,
+      "slug": "europe",
+      "name": "Continente Europeu",
+      "continent": "Europa",
+      "description": "O continente mais antigo.",
+      "background": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "country_quantity": "44",
+      "cities": {
+        "bigger_cities": [
+          {
+            "name": "Moscow",
+            "country": "Russia",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ru.svg"
+          },
+          {
+            "name": "Berlim",
+            "country": "Alemanha",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg"
+          },
+          {
+            "name": "Paris",
+            "country": "França",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg"
+          },
+          {
+            "name": "London",
+            "country": "Inglaterra",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gb.svg"
+          },
+          {
+            "name": "Roma",
+            "country": "Itália",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/it.svg"
+          },
+          {
+            "name": "Madrid",
+            "country": "Espanha",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/es.svg"
+          },
+          {
+            "name": "Kiev",
+            "country": "Ucrânia",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ua.svg"
+          },
+          {
+            "name": "Bucareste",
+            "country": "Romênia",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ro.svg"
+          },
+          {
+            "name": "Amsterdam",
+            "country": "Holanda",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bq.svg"
+          },
+          {
+            "name": "Bruxelas",
+            "country": "Bélgica",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/be.svg"
+          },
+          {
+            "name": "Atenas",
+            "country": "Grécia",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gr.svg"
+          },
+          {
+            "name": "Praga",
+            "country": "República Checa",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cz.svg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "slug": "america",
+      "name": "Continente Americano",
+      "continent": "América",
+      "description": "Conheça e viva algo inesquecível.",
+      "background": "https://images.unsplash.com/photo-1543158266-0066955047b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "country_quantity": "35",
+      "cities": {
+        "bigger_cities": [
+          {
+            "name": "Moscow",
+            "country": "Russia",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ru.svg"
+          },
+          {
+            "name": "Berlim",
+            "country": "Alemanha",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg"
+          },
+          {
+            "name": "Paris",
+            "country": "França",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fr.svg"
+          },
+          {
+            "name": "London",
+            "country": "Inglaterra",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gb.svg"
+          },
+          {
+            "name": "Roma",
+            "country": "Itália",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/it.svg"
+          },
+          {
+            "name": "Madrid",
+            "country": "Espanha",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/es.svg"
+          },
+          {
+            "name": "Kiev",
+            "country": "Ucrânia",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ua.svg"
+          },
+          {
+            "name": "Bucareste",
+            "country": "Romênia",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ro.svg"
+          },
+          {
+            "name": "Amsterdam",
+            "country": "Holanda",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bq.svg"
+          },
+          {
+            "name": "Bruxelas",
+            "country": "Bélgica",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/be.svg"
+          },
+          {
+            "name": "Atenas",
+            "country": "Grécia",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gr.svg"
+          },
+          {
+            "name": "Praga",
+            "country": "República Checa",
+            "flag": "https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cz.svg"
+          }
+        ]
+      }
+    }
+  ]
+}
